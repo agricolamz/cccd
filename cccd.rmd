@@ -20,6 +20,8 @@ db <- read_csv("database.csv")
 
 ###  The Circassian Consonants Correspondences Database {.tabset .tabset-fade .tabset-pills}
 
+[![DOI](https://zenodo.org/badge/171631663.svg)](https://zenodo.org/badge/latestdoi/171631663)
+
 In this database some Circassian consonant correspondences are collect form multiple sources about Circassian dialects. Some characters may be displayed incorrectly.
 
 Download database: [.csv](https://raw.githubusercontent.com/agricolamz/cccd/master/database.csv)
