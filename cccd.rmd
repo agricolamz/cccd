@@ -37,7 +37,9 @@ db %>%
   select(-full_reference, -id, -sound_source, -reference, -example) %>% 
   group_by(translation, translation_source) %>% 
   mutate(n = n()) %>% 
+  select(n, translation, translation_source, lect, sound) %>% 
   spread(lect, sound, fill = "") %>% 
+  arrange(desc(n)) %>% 
   DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
 ```
 
