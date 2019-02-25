@@ -1,0 +1,50 @@
+---
+output: 
+  html_document:
+    include:
+      after_body: footer.html
+knit: (function(inputFile, encoding) { 
+      out_dir <- 'docs';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'index.html')) })
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE, warning=F}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+library(tidyverse)
+db <- read_csv("database.csv")
+```
+
+###  The Circassian Consonants Correspondences Database {.tabset .tabset-fade .tabset-pills}
+
+In this database some Circassian consonant correspondences are collect form multiple sources about Circassian dialects. Some characters may be displayed incorrectly.
+
+Download database: [.csv](https://raw.githubusercontent.com/agricolamz/cccd/master/database.csv)
+
+#### long format
+```{r}
+db %>% 
+  select(-full_reference, -id) %>% 
+  DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
+```
+
+#### short format
+```{r}
+db %>% 
+  select(-full_reference, -id, -sound_source, -reference, -example) %>% 
+  group_by(translation, translation_source) %>% 
+  mutate(n = n()) %>% 
+  spread(lect, sound, fill = "") %>% 
+  DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
+```
+
+#### bibliography
+```{r}
+db %>% 
+  mutate(reference = str_extract(reference, ".*\\d\\d\\d\\d")) %>% 
+  distinct(reference, full_reference) %>% 
+  DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
+```
