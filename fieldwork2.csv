@@ -14,21 +14,6 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 арба,Инджиджишхо,ɡʷ,гуы,ɡʷə,fieldwork,fieldwork
 арба,Эрсакон,ɡʷ,гуы,ɡʷə,fieldwork,fieldwork
 арба,Жако,ɡʷ,гуы,ɡʷə,fieldwork,fieldwork
-борода 2,Хаджико,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
-борода 2,Большой Кичмай,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Агуй-Шапсуг,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
-борода 2,Псейтук,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
-борода 2,Нешукай,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Егерухай,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Уляп,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Вакожиле,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Кургоковское,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Ходзь,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Блечепсин,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Хумара,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Инджиджишхо,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Эрсакон,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
-борода 2,Жако,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
 борода,Хаджико,ʑ,жь,ʑakʲ’ɐ,fieldwork,fieldwork
 борода,Большой Кичмай,ʑ,жь,ʑat͡ɕ’ɐ,fieldwork,fieldwork
 борода,Агуй-Шапсуг,ʑ,жь,ʑakʲ’ɐ,fieldwork,fieldwork
@@ -44,6 +29,21 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 борода,Инджиджишхо,ẑ,жъ,ẑat͡ɕ’ɐ,fieldwork,fieldwork
 борода,Эрсакон,ẑ,жъ,ẑat͡ɕ’ɐ,fieldwork,fieldwork
 борода,Жако,ẑ,жъ,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Хаджико,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
+борода 2,Большой Кичмай,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Агуй-Шапсуг,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
+борода 2,Псейтук,kʲ’,кьI,ʑakʲ’ɐ,fieldwork,fieldwork
+борода 2,Нешукай,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Егерухай,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Уляп,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Вакожиле,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Кургоковское,t͡ɕ’,кI,ʒat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Ходзь,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Блечепсин,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Хумара,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Инджиджишхо,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Эрсакон,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
+борода 2,Жако,t͡ɕ’,кI,ẑat͡ɕ’ɐ,fieldwork,fieldwork
 брат,Хаджико,t͡ɕ,ч,t͡ɕə,fieldwork,fieldwork
 брат,Большой Кичмай,t͡ɕ,ч,t͡ɕə,fieldwork,fieldwork
 брат,Псебе,xʲ,х’,xʲə,fieldwork,fieldwork
@@ -227,6 +227,19 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 железо,Инджиджишхо,ŝ’,щI,ʁʷəŝ’,fieldwork,fieldwork
 железо,Эрсакон,ŝ’,щI,ʁʷəŝ’,fieldwork,fieldwork
 железо,Жако,ŝ’,щI,ʁʷəŝ’,fieldwork,fieldwork
+замок,Хаджико,ʔʷ,Iу,ʔʷət’ʷəbz,fieldwork,fieldwork
+замок,Большой Кичмай,kʲ’,кIь,ʔʷət’kʲ’əbz,fieldwork,fieldwork
+замок,Псейтук,kʲ’,кIь,ʔʷət’kʲ’əbz,fieldwork,fieldwork
+замок,Нешукай,t͡ɕ’,кI,ʔʷət͡ɕ’əbz,fieldwork,fieldwork
+замок,М. Псеушхо,ʔʷ,Iу,ʔʷət’ʷəbz,fieldwork,fieldwork
+замок,Уляп,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Вакожиле,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Ходзь,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Блечепсин,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Хумара,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Инджиджишхо,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Эрсакон,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
+замок,Жако,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
 "земля, почва",Хаджико,t͡ɕ’,кI,t͡ɕ’əɡʷə,fieldwork,fieldwork
 "земля, почва",Агуй-Шапсуг,t͡ɕ,ч,t͡ɕəɡʷə,fieldwork,fieldwork
 "земля, почва",М. Псеушхо,t͡ɕ’,кI,t͡ɕ’əɡʷə,fieldwork,fieldwork
@@ -276,19 +289,6 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 имя,Инджиджишхо,t͡s’,цI,t͡s’ɐ,fieldwork,fieldwork
 имя,Эрсакон,t͡s’,цI,t͡s’ɐ,fieldwork,fieldwork
 имя,Жако,t͡s’,цI,t͡s’ɐ,fieldwork,fieldwork
-замок,Хаджико,ʔʷ,Iу,ʔʷət’ʷəbz,fieldwork,fieldwork
-замок,Большой Кичмай,kʲ’,кIь,ʔʷət’kʲ’əbz,fieldwork,fieldwork
-замок,Псейтук,kʲ’,кIь,ʔʷət’kʲ’əbz,fieldwork,fieldwork
-замок,Нешукай,t͡ɕ’,кI,ʔʷət͡ɕ’əbz,fieldwork,fieldwork
-замок,М. Псеушхо,ʔʷ,Iу,ʔʷət’ʷəbz,fieldwork,fieldwork
-замок,Уляп,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Вакожиле,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Ходзь,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Блечепсин,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Хумара,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Инджиджишхо,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Эрсакон,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
-замок,Жако,t͡ɕ’,кI,ʔʷənt͡ɕ’əbzɐ,fieldwork,fieldwork
 колено,Хаджико,d͡ʑ,дж,ɬɐɡʷad͡ʑ,fieldwork,fieldwork
 колено,Большой Кичмай,d͡ʑ,дж,ɬɐkʷad͡ʑ,fieldwork,fieldwork
 колено,Псебе,d͡ʑ,дж,ɬɐkʷad͡ʑ,fieldwork,fieldwork
@@ -390,428 +390,447 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 крыло,Инджиджишхо,d,д,damɐ,fieldwork,fieldwork
 крыло,Эрсакон,d,д,damɐ,fieldwork,fieldwork
 крыло,Жако,d,д,damɐ,fieldwork,fieldwork
-кувшин,Хаджико,,,къощын,fieldwork,fieldwork
-кувшин,Большой Кичмай,,,къощын,fieldwork,fieldwork
-кувшин,Псейтук,,,къhощhын,fieldwork,fieldwork
-кувшин,Нешукай,,,къhошын,fieldwork,fieldwork
-кувшин,М. Псеушхо,,,къошын,fieldwork,fieldwork
-кувшин,Уляп,,,qʷešən,fieldwork,fieldwork
-кувшин,Вакожиле,,,кхъошын,fieldwork,fieldwork
-кувшин,Ходзь,,,кхъошъын,fieldwork,fieldwork
-кувшин,Блечепсин,,,кхъошын,fieldwork,fieldwork
-кувшин,Хумара,,,кхъошъын,fieldwork,fieldwork
-кувшин,Инджиджишхо,,,кхъошъын,fieldwork,fieldwork
-кувшин,Эрсакон,,,кхъошъын,fieldwork,fieldwork
-кувшин,Жако,,,кхъошъын,fieldwork,fieldwork
-курица,Хаджико,,,кьеты,fieldwork,fieldwork
-курица,Большой Кичмай,,,кьэты,fieldwork,fieldwork
-курица,Агуй-Шапсуг,,,к:ьэт:ы,fieldwork,fieldwork
-курица,Псейтук,,,кьеты,fieldwork,fieldwork
-курица,Нешукай,,,чэты,fieldwork,fieldwork
-курица,М. Псеушхо,,,чэты,fieldwork,fieldwork
-курица,Уляп,,,ǯʼed,fieldwork,fieldwork
-курица,Вакожиле,,,джэд,fieldwork,fieldwork
-курица,Кургоковское,,,джэд,fieldwork,fieldwork
-курица,Ходзь,,,джэд,fieldwork,fieldwork
-курица,Блечепсин,,,джэд,fieldwork,fieldwork
-курица,Хумара,,,джэд,fieldwork,fieldwork
-курица,Инджиджишхо,,,джэд,fieldwork,fieldwork
-курица,Эрсакон,,,джэд,fieldwork,fieldwork
-курица,Жако,,,джэд,fieldwork,fieldwork
-куст,Хаджико,,,куадэ,fieldwork,fieldwork
-куст,Большой Кичмай,,,къуадэ,fieldwork,fieldwork
-куст,Агуй-Шапсуг,,,куард,fieldwork,fieldwork
-куст,Псейтук,,,къуандэ,fieldwork,fieldwork
-куст,Нешукай,,,куандэ,fieldwork,fieldwork
-куст,М. Псеушхо,,,куадэ,fieldwork,fieldwork
-куст,Уляп,,,kʷande,fieldwork,fieldwork
-куст,Ходзь,,,къуацэ,fieldwork,fieldwork
-ласточка,Хаджико,,,пцIащхъо,fieldwork,fieldwork
-ласточка,Большой Кичмай,,,пцIащхъо,fieldwork,fieldwork
-ласточка,Агуй-Шапсуг,,,пцIашхъо,fieldwork,fieldwork
-ласточка,Псейтук,,,пцIашъхъо,fieldwork,fieldwork
-ласточка,Нешукай,,,пцIашхъо,fieldwork,fieldwork
-ласточка,М. Псеушхо,,,пцIашхъо,fieldwork,fieldwork
-ласточка,Уляп,,,pc̣ašχʷe,fieldwork,fieldwork
-ласточка,Вакожиле,,,пцIашхъо,fieldwork,fieldwork
-ласточка,Ходзь,,,пцIашхъуэ,fieldwork,fieldwork
-ласточка,Блечепсин,,,пцIашхъо,fieldwork,fieldwork
-ласточка,Хумара,,,пцIашъхъо,fieldwork,fieldwork
-ласточка,Инджиджишхо,,,пцIашъхъуэ,fieldwork,fieldwork
-ласточка,Эрсакон,,,пцIашъхъуэ,fieldwork,fieldwork
-ласточка,Жако,,,пцIашъхъуэ,fieldwork,fieldwork
-лиса,Хаджико,,,баджьэ,fieldwork,fieldwork
-лиса,Большой Кичмай,,,баджьэ,fieldwork,fieldwork
-лиса,Агуй-Шапсуг,,,"бэгьежъый (мелкая), баджьэ (взрослая)",fieldwork,fieldwork
-лиса,Псейтук,,,баджьэ,fieldwork,fieldwork
-лиса,Нешукай,,,баджэ,fieldwork,fieldwork
-лиса,М. Псеушхо,,,"бэджэшъ, баджэ",fieldwork,fieldwork
-лиса,Уляп,,,bažʼe,fieldwork,fieldwork
-лиса,Вакожиле,,,бажьэ,fieldwork,fieldwork
-лиса,Кургоковское,,,баджэ,fieldwork,fieldwork
-лиса,Ходзь,,,бажьэ,fieldwork,fieldwork
-лиса,Блечепсин,,,бажьэ,fieldwork,fieldwork
-лиса,Хумара,,,бажьэ,fieldwork,fieldwork
-лиса,Инджиджишхо,,,бажэ,fieldwork,fieldwork
-лиса,Эрсакон,,,бажьэ,fieldwork,fieldwork
-лиса,Жако,,,бажэ,fieldwork,fieldwork
-ложь,Хаджико,,,пцIы,fieldwork,fieldwork
-ложь,Большой Кичмай,,,пцIы,fieldwork,fieldwork
-ложь,Агуй-Шапсуг,,,псIы,fieldwork,fieldwork
-ложь,Псейтук,,,пцIы,fieldwork,fieldwork
-ложь,Нешукай,,,пцIы,fieldwork,fieldwork
-ложь,М. Псеушхо,,,пцIы,fieldwork,fieldwork
-ложь,Ходзь,,,пцIы,fieldwork,fieldwork
-ложь,Блечепсин,,,пцIы,fieldwork,fieldwork
-ложь,Хумара,,,пцIы,fieldwork,fieldwork
-ложь,Инджиджишхо,,,пцIы,fieldwork,fieldwork
-ложь,Эрсакон,,,пцIы,fieldwork,fieldwork
-ложь,Жако,,,пцIы,fieldwork,fieldwork
-"лошадь, конь",Хаджико,,,чы,fieldwork,fieldwork
-"лошадь, конь",Большой Кичмай,,,чы,fieldwork,fieldwork
-"лошадь, конь",Псебе,,,"х'ыжъы, х'ы",fieldwork,fieldwork
-"лошадь, конь",Агуй-Шапсуг,,,х'и(жъы),fieldwork,fieldwork
-"лошадь, конь",Псейтук,,,щhы,fieldwork,fieldwork
-"лошадь, конь",М. Псеушхо,,,шы,fieldwork,fieldwork
-"лошадь, конь",Уляп,,,šə,fieldwork,fieldwork
-"лошадь, конь",Вакожиле,,,шы,fieldwork,fieldwork
-"лошадь, конь",Кургоковское,,,чъы,fieldwork,fieldwork
-"лошадь, конь",Ходзь,,,щы,fieldwork,fieldwork
-"лошадь, конь",Блечепсин,,,щы,fieldwork,fieldwork
-"лошадь, конь",Хумара,,,щы,fieldwork,fieldwork
-"лошадь, конь",Инджиджишхо,,,шы,fieldwork,fieldwork
-"лошадь, конь",Эрсакон,,,щы,fieldwork,fieldwork
-"лошадь, конь",Жако,,,шы,fieldwork,fieldwork
-лук,Хаджико,,,бжьынэ,fieldwork,fieldwork
-лук,Большой Кичмай,,,бжьынэ,fieldwork,fieldwork
-лук,Агуй-Шапсуг,,,бжьыны,fieldwork,fieldwork
-лук,Псейтук,,,бжьыны,fieldwork,fieldwork
-лук,Нешукай,,,бжьын,fieldwork,fieldwork
-лук,М. Псеушхо,,,бжынэ,fieldwork,fieldwork
-лук,Уляп,,,bžʼən,fieldwork,fieldwork
-лук,Вакожиле,,,бжьын,fieldwork,fieldwork
-лук,Кургоковское,,,бжьын,fieldwork,fieldwork
-лук,Ходзь,,,бжъын,fieldwork,fieldwork
-лук,Блечепсин,,,бжьын,fieldwork,fieldwork
-лук,Хумара,,,бжъын,fieldwork,fieldwork
-лук,Инджиджишхо,,,бжъын,fieldwork,fieldwork
-лук,Эрсакон,,,бжъын,fieldwork,fieldwork
-лук,Жако,,,бжъын,fieldwork,fieldwork
-маленький,Хаджико,,,цIыкIу,fieldwork,fieldwork
-маленький,Большой Кичмай,,,цIыкIу,fieldwork,fieldwork
-маленький,Псебе,,,цIыкIу,fieldwork,fieldwork
-маленький,Агуй-Шапсуг,,,цIыкIуняу,fieldwork,fieldwork
-маленький,Псейтук,,,цIыкIу,fieldwork,fieldwork
-маленький,Нешукай,,,цIыкIу,fieldwork,fieldwork
-маленький,М. Псеушхо,,,цIыкIу,fieldwork,fieldwork
-маленький,Уляп,,,c̣əḳʷʼ,fieldwork,fieldwork
-маленький,Вакожиле,,,цIыкIу,fieldwork,fieldwork
-маленький,Бесленей,,,цIыкIу,fieldwork,fieldwork
-маленький,Ходзь,,,цIыкI,fieldwork,fieldwork
-маленький,Блечепсин,,,цIыкI,fieldwork,fieldwork
-маленький,Хумара,,,цIыкI,fieldwork,fieldwork
-маленький,Инджиджишхо,,,цIыкIу,fieldwork,fieldwork
-маленький,Эрсакон,,,цIыкIу,fieldwork,fieldwork
-маленький,Жако,,,цIыкIу,fieldwork,fieldwork
-мать мужа (свекровь),Хаджико,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Большой Кичмай,,,гъуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Агуй-Шапсуг,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Псейтук,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Нешукай,,,гуащы,fieldwork,fieldwork
-мать мужа (свекровь),Егерухай,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),М. Псеушхо,,,гуашэ,fieldwork,fieldwork
-мать мужа (свекровь),Уляп,,,gʷašʼe,fieldwork,fieldwork
-мать мужа (свекровь),Вакожиле,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Кургоковское,,,гуащэ,fieldwork,fieldwork
-мать мужа (свекровь),Ходзь,,,гуашъэ,fieldwork,fieldwork
-мать мужа (свекровь),Блечепсин,,,гъуашъэ,fieldwork,fieldwork
-мать мужа (свекровь),Хумара,,,гуашъэ,fieldwork,fieldwork
-мать мужа (свекровь),Инджиджишхо,,,гуашъэ,fieldwork,fieldwork
-мать мужа (свекровь),Эрсакон,,,гуашъэ,fieldwork,fieldwork
-мать мужа (свекровь),Жако,,,гуашъэ,fieldwork,fieldwork
-мокрый,Хаджико,,,цIынэ,fieldwork,fieldwork
-мокрый,Большой Кичмай,,,ц1ынэ,fieldwork,fieldwork
-мокрый,Агуй-Шапсуг,,,сIынэ,fieldwork,fieldwork
-мокрый,Псейтук,,,цIынэ,fieldwork,fieldwork
-мокрый,Нешукай,,,цIынэ,fieldwork,fieldwork
-мокрый,М. Псеушхо,,,цIынэ,fieldwork,fieldwork
-мокрый,Уляп,,,c̣əne,fieldwork,fieldwork
-мокрый,Вакожиле,,,цIынэ,fieldwork,fieldwork
-мокрый,Ходзь,,,цIынэ,fieldwork,fieldwork
-мокрый,Блечепсин,,,цIынэ,fieldwork,fieldwork
-мокрый,Хумара,,,"псыф, цIынэ",fieldwork,fieldwork
-мокрый,Инджиджишхо,,,"псыф, цIынэ",fieldwork,fieldwork
-мокрый,Эрсакон,,,"псыф, цIынэ",fieldwork,fieldwork
-мокрый,Жако,,,"псыф, цIынэ (влажный)",fieldwork,fieldwork
-молоко,Хаджико,,,чэ,fieldwork,fieldwork
-молоко,Большой Кичмай,,,чэ,fieldwork,fieldwork
-молоко,Агуй-Шапсуг,,,"х'е, шэ",fieldwork,fieldwork
-молоко,Псейтук,,,щhэ,fieldwork,fieldwork
-молоко,Нешукай,,,щhэ,fieldwork,fieldwork
-молоко,М. Псеушхо,,,шэ,fieldwork,fieldwork
-молоко,Уляп,,,šʼe,fieldwork,fieldwork
-молоко,Вакожиле,,,щэ,fieldwork,fieldwork
-молоко,Кургоковское,,,чэ,fieldwork,fieldwork
-молоко,Ходзь,,,щэ,fieldwork,fieldwork
-молоко,Блечепсин,,,щэ,fieldwork,fieldwork
-молоко,Хумара,,,щэ,fieldwork,fieldwork
-молоко,Инджиджишхо,,,шэ,fieldwork,fieldwork
-молоко,Эрсакон,,,шэ,fieldwork,fieldwork
-молоко,Жако,,,шэ,fieldwork,fieldwork
-мост,Хаджико,,,лъэмыдж,fieldwork,fieldwork
-мост,Большой Кичмай,,,лъэмыдж,fieldwork,fieldwork
-мост,Агуй-Шапсуг,,,лъэмыджь,fieldwork,fieldwork
-мост,Псейтук,,,"мост, лъэмыдж",fieldwork,fieldwork
-мост,Нешукай,,,лъэмыдж,fieldwork,fieldwork
-мост,М. Псеушхо,,,лъэмыдж,fieldwork,fieldwork
-мост,Уляп,,,ɬeməžʼ,fieldwork,fieldwork
-мост,Вакожиле,,,лъэмыжь,fieldwork,fieldwork
-мост,Кургоковское,,,лъэмыдж,fieldwork,fieldwork
-мост,Ходзь,,,лъэмыжь,fieldwork,fieldwork
-мост,Блечепсин,,,лъэмыжъ,fieldwork,fieldwork
-мост,Хумара,,,лъэмыжь,fieldwork,fieldwork
-мост,Инджиджишхо,,,лъэмыж,fieldwork,fieldwork
-мост,Эрсакон,,,лъэмыжь,fieldwork,fieldwork
-мост,Жако,,,лъэмыж,fieldwork,fieldwork
-мышь,Хаджико,,,цыгъо,fieldwork,fieldwork
-мышь,Большой Кичмай,,,цыгъо,fieldwork,fieldwork
-мышь,Агуй-Шапсуг,,,цыгъо,fieldwork,fieldwork
-мышь,Псейтук,,,цыгъо,fieldwork,fieldwork
-мышь,Нешукай,,,цыгъу,fieldwork,fieldwork
-мышь,М. Псеушхо,,,цыгъо,fieldwork,fieldwork
-мышь,Уляп,,,ʒəʁʷe,fieldwork,fieldwork
-мышь,Вакожиле,,,дзугъо,fieldwork,fieldwork
-мышь,Кургоковское,,,дзыгъо,fieldwork,fieldwork
-мышь,Ходзь,,,дзыгъуэ,fieldwork,fieldwork
-мышь,Блечепсин,,,дзыгъо,fieldwork,fieldwork
-мышь,Хумара,,,дзыгъо,fieldwork,fieldwork
-мышь,Инджиджишхо,,,дзыгъуэ,fieldwork,fieldwork
-мышь,Эрсакон,,,дзыгъуэ,fieldwork,fieldwork
-мышь,Жако,,,дзыгъуэ,fieldwork,fieldwork
-нос,Хаджико,,,пэ,fieldwork,fieldwork
-нос,Большой Кичмай,,,"пэ, с",fieldwork,fieldwork
-нос,Псебе,,,пэ,fieldwork,fieldwork
-нос,Агуй-Шапсуг,,,пэ,fieldwork,fieldwork
-нос,Псейтук,,,пhэ,fieldwork,fieldwork
-нос,Нешукай,,,пhэ,fieldwork,fieldwork
-нос,Б. Псеушхо,,,пэ,fieldwork,fieldwork
-нос,Егерухай,,,пэ,fieldwork,fieldwork
-нос,М. Псеушхо,,,пэ,fieldwork,fieldwork
-нос,Уляп,,,pe,fieldwork,fieldwork
-нос,Вакожиле,,,пэ,fieldwork,fieldwork
-нос,Бесленей,,,пэ,fieldwork,fieldwork
-нос,Кургоковское,,,пэ,fieldwork,fieldwork
-нос,Ходзь,,,пэ,fieldwork,fieldwork
-нос,Блечепсин,,,пэ,fieldwork,fieldwork
-нос,Хумара,,,пэ,fieldwork,fieldwork
-нос,Инджиджишхо,,,пэ,fieldwork,fieldwork
-нос,Эрсакон,,,пэ,fieldwork,fieldwork
-нос,Жако,,,пэ,fieldwork,fieldwork
-ночь,Хаджико,,,чэщы,fieldwork,fieldwork
-ночь,Большой Кичмай,,,чэщы,fieldwork,fieldwork
-ночь,Псебе,,,чэщы,fieldwork,fieldwork
-ночь,Агуй-Шапсуг,,,чэщы,fieldwork,fieldwork
-ночь,Псейтук,,,чэщы,fieldwork,fieldwork
-ночь,Нешукай,,,чэщы,fieldwork,fieldwork
-ночь,М. Псеушхо,,,чэшы,fieldwork,fieldwork
-ночь,Уляп,,,ǯʼešʼ,fieldwork,fieldwork
-ночь,Вакожиле,,,жэщ,fieldwork,fieldwork
-ночь,Бесленей,,,жэщ,fieldwork,fieldwork
-ночь,Кургоковское,,,джэщ,fieldwork,fieldwork
-ночь,Ходзь,,,жьэщ,fieldwork,fieldwork
-ночь,Блечепсин,,,жъэщ,fieldwork,fieldwork
-ночь,Хумара,,,жьэшъ,fieldwork,fieldwork
-ночь,Инджиджишхо,,,жэшъ,fieldwork,fieldwork
-ночь,Эрсакон,,,жьэшъ,fieldwork,fieldwork
-ночь,Жако,,,жэшъ,fieldwork,fieldwork
-отец,Хаджико,,,ятэ,fieldwork,fieldwork
-отец,Большой Кичмай,,,"ят, ты, сят, уят…",fieldwork,fieldwork
-отец,Агуй-Шапсуг,,,"ят:э, т:э (rare)",fieldwork,fieldwork
-отец,Псейтук,,,ятэ,fieldwork,fieldwork
-отец,Нешукай,,,ты,fieldwork,fieldwork
-отец,Егерухай,,,"ты, ятэ, мамэ",fieldwork,fieldwork
-отец,М. Псеушхо,,,ятэ,fieldwork,fieldwork
-отец,Уляп,,,ade,fieldwork,fieldwork
-отец,Вакожиле,,,адэ,fieldwork,fieldwork
-отец,Кургоковское,,,"седэ, адэ",fieldwork,fieldwork
-отец,Ходзь,,,"адэ, сядэ [sʲiadɐ]",fieldwork,fieldwork
-отец,Блечепсин,,,"сиадэ, адэ",fieldwork,fieldwork
-отец,Хумара,,,"адэ, сиадэ",fieldwork,fieldwork
-отец,Инджиджишхо,,,"адэ, сиадэ",fieldwork,fieldwork
-отец,Эрсакон,,,"адэ, сиадэ",fieldwork,fieldwork
-отец,Жако,,,"адэ, сиадэ",fieldwork,fieldwork
-палец руки,Хаджико,,,Iэпхъаб,fieldwork,fieldwork
-палец руки,Большой Кичмай,,,"Iэпхъаб, с",fieldwork,fieldwork
-палец руки,Агуй-Шапсуг,,,Iапхьаб,fieldwork,fieldwork
-палец руки,Псейтук,,,Iэхъуаб,fieldwork,fieldwork
-палец руки,Нешукай,,,Iэхъуа(м)б,fieldwork,fieldwork
-палец руки,Б. Псеушхо,,,Iапхъаб,fieldwork,fieldwork
-палец руки,Егерухай,,,Iахъуамб,fieldwork,fieldwork
-палец руки,М. Псеушхо,,,Iапхъабэ,fieldwork,fieldwork
-палец руки,Уляп,,,ʔape,fieldwork,fieldwork
-палец руки,Вакожиле,,,Iэхъуамбэ,fieldwork,fieldwork
-палец руки,Кургоковское,,,Iапэ,fieldwork,fieldwork
-палец руки,Ходзь,,,Iахъуамбэ,fieldwork,fieldwork
-палец руки,Блечепсин,,,Iапэ,fieldwork,fieldwork
-палец руки,Хумара,,,"Iэхъуамбэ, Iапэ - кончик",fieldwork,fieldwork
-палец руки,Инджиджишхо,,,"Iэхъуамбэ, Iапэ - кончик",fieldwork,fieldwork
-палец руки,Эрсакон,,,"Iэхъуамбэ, Iапэ - кончик",fieldwork,fieldwork
-палец руки,Жако,,,"Iахъуамбэ, Iапэ - кончик",fieldwork,fieldwork
-палка,Хаджико,,,бэчы,fieldwork,fieldwork
-палка,Большой Кичмай,,,бэч,fieldwork,fieldwork
-палка,Агуй-Шапсуг,,,бэх'и,fieldwork,fieldwork
-палка,Псейтук,,,бэщhы,fieldwork,fieldwork
-палка,Нешукай,,,бэщ,fieldwork,fieldwork
-палка,М. Псеушхо,,,бэшы,fieldwork,fieldwork
-палка,Уляп,,,"bašʼ, pχe, čʼə",fieldwork,fieldwork
-палка,Вакожиле,,,бащ,fieldwork,fieldwork
-палка,Кургоковское,,,бач,fieldwork,fieldwork
-палка,Ходзь,,,бащ,fieldwork,fieldwork
-палка,Блечепсин,,,бащ,fieldwork,fieldwork
-палка,Хумара,,,бащ,fieldwork,fieldwork
-палка,Инджиджишхо,,,баш,fieldwork,fieldwork
-палка,Эрсакон,,,баш,fieldwork,fieldwork
-палка,Жако,,,баш,fieldwork,fieldwork
-парень,Хаджико,,,кIалэ,fieldwork,fieldwork
-парень,Большой Кичмай,,,кIалэ,fieldwork,fieldwork
-парень,Псебе,,,кIалэ,fieldwork,fieldwork
-парень,Агуй-Шапсуг,,,кIэлэхъу,fieldwork,fieldwork
-парень,Псейтук,,,кIалэ,fieldwork,fieldwork
-парень,Нешукай,,,кIалэ,fieldwork,fieldwork
-парень,Егерухай,,,"кIалэ, шъао",fieldwork,fieldwork
-парень,М. Псеушхо,,,"кIалэхъу, кIалэ, шъао",fieldwork,fieldwork
-парень,Кургоковское,,,кIалэ,fieldwork,fieldwork
-парень,Ходзь,,,"шIалэ, IалэжъцIыккI",fieldwork,fieldwork
-парень,Блечепсин,,,шIалэ,fieldwork,fieldwork
-парень,Хумара,,,шIалэ,fieldwork,fieldwork
-парень,Инджиджишхо,,,шIалэ,fieldwork,fieldwork
-парень,Эрсакон,,,шIалэ,fieldwork,fieldwork
-парень,Жако,,,шIуалэ,fieldwork,fieldwork
-пахотное поле,Хаджико,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Большой Кичмай,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Агуй-Шапсуг,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Псейтук,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Нешукай,,,губгъо,fieldwork,fieldwork
-пахотное поле,М. Псеушхо,,,хатэ,fieldwork,fieldwork
-пахотное поле,Уляп,,,gʷəbʁe,fieldwork,fieldwork
-пахотное поле,Вакожиле,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Кургоковское,,,губгъо,fieldwork,fieldwork
-пахотное поле,Ходзь,,,губгъуэ,fieldwork,fieldwork
-пахотное поле,Блечепсин,,,губгъэ,fieldwork,fieldwork
-пахотное поле,Хумара,,,вагъэ,fieldwork,fieldwork
-пахотное поле,Инджиджишхо,,,вагъэ,fieldwork,fieldwork
-пахотное поле,Эрсакон,,,"губгъо, вагъэ (вспаханное)",fieldwork,fieldwork
-пахотное поле,Жако,,,"губгъуэ, вагъэ (вспаханное)",fieldwork,fieldwork
-пшеница,Хаджико,,,коцы,fieldwork,fieldwork
-пшеница,Большой Кичмай,,,коцы,fieldwork,fieldwork
-пшеница,Агуй-Шапсуг,,,к:оц:ы,fieldwork,fieldwork
-пшеница,Псейтук,,,кhоцы,fieldwork,fieldwork
-пшеница,Нешукай,,,коц,fieldwork,fieldwork
-пшеница,М. Псеушхо,,,коцы,fieldwork,fieldwork
-пшеница,Уляп,,,gʷeʒ a) ʁetxe gʷeʒ b)bžəhe gʷeʒ,fieldwork,fieldwork
-пшеница,Вакожиле,,,годзь,fieldwork,fieldwork
-пшеница,Кургоковское,,,годзь,fieldwork,fieldwork
-пшеница,Ходзь,,,гуэдз,fieldwork,fieldwork
-пшеница,Блечепсин,,,годзь,fieldwork,fieldwork
-пшеница,Хумара,,,годз,fieldwork,fieldwork
-пшеница,Инджиджишхо,,,годз,fieldwork,fieldwork
-пшеница,Эрсакон,,,годз,fieldwork,fieldwork
-пшеница,Жако,,,годз,fieldwork,fieldwork
-рот,Хаджико,,,жьэ,fieldwork,fieldwork
-рот,Большой Кичмай,,,"жьэ, сы",fieldwork,fieldwork
-рот,Псебе,,,жьэ,fieldwork,fieldwork
-рот,Агуй-Шапсуг,,,жьэ,fieldwork,fieldwork
-рот,Псейтук,,,жьэ,fieldwork,fieldwork
-рот,Нешукай,,,жэ,fieldwork,fieldwork
-рот,Б. Псеушхо,,,IупшIэ,fieldwork,fieldwork
-рот,Егерухай,,,жэ,fieldwork,fieldwork
-рот,М. Псеушхо,,,жэ,fieldwork,fieldwork
-рот,Уляп,,,že,fieldwork,fieldwork
-рот,Вакожиле,,,жэ,fieldwork,fieldwork
-рот,Бесленей,,,жэ,fieldwork,fieldwork
-рот,Кургоковское,,,жэ,fieldwork,fieldwork
-рот,Ходзь,,,жъэ,fieldwork,fieldwork
-рот,Блечепсин,,,жъэ,fieldwork,fieldwork
-рот,Хумара,,,жъэ,fieldwork,fieldwork
-рот,Инджиджишхо,,,жъэ,fieldwork,fieldwork
-рот,Эрсакон,,,жьэ,fieldwork,fieldwork
-рот,Жако,,,жъэ,fieldwork,fieldwork
-рубашка,Хаджико,,,гьянэ,fieldwork,fieldwork
-рубашка,Большой Кичмай,,,гьянэ,fieldwork,fieldwork
-рубашка,Агуй-Шапсуг,,,гьян,fieldwork,fieldwork
-рубашка,Псейтук,,,гьянэ,fieldwork,fieldwork
-рубашка,Нешукай,,,джанэ,fieldwork,fieldwork
-рубашка,М. Псеушхо,,,джанэ,fieldwork,fieldwork
-рубашка,Уляп,,,ǯʼane,fieldwork,fieldwork
-рубашка,Вакожиле,,,джанэ,fieldwork,fieldwork
-рубашка,Кургоковское,,,джанэ,fieldwork,fieldwork
-рубашка,Ходзь,,,джанэ,fieldwork,fieldwork
-рубашка,Блечепсин,,,джанэ,fieldwork,fieldwork
-рубашка,Хумара,,,джанэ,fieldwork,fieldwork
-рубашка,Инджиджишхо,,,джанэ,fieldwork,fieldwork
-рубашка,Эрсакон,,,джанэ,fieldwork,fieldwork
-рубашка,Жако,,,джанэ,fieldwork,fieldwork
-рыба,Хаджико,,,пцэжъый,fieldwork,fieldwork
-рыба,Большой Кичмай,,,пцэжъый,fieldwork,fieldwork
-рыба,Псебе,,,псэжъый,fieldwork,fieldwork
-рыба,Агуй-Шапсуг,,,п:цэжьый,fieldwork,fieldwork
-рыба,Псейтук,,,балыкъ,fieldwork,fieldwork
-рыба,Нешукай,,,парго,fieldwork,fieldwork
-рыба,Б. Псеушхо,,,пцэжъый,fieldwork,fieldwork
-рыба,М. Псеушхо,,,пцэжъый,fieldwork,fieldwork
-рыба,Уляп,,,bẑeẑje,fieldwork,fieldwork
-рыба,Вакожиле,,,бдзэжъей,fieldwork,fieldwork
-рыба,Бесленей,,,бдзэжъей,fieldwork,fieldwork
-рыба,Кургоковское,,,бджэжъе,fieldwork,fieldwork
-рыба,Ходзь,,,бдзэжъе,fieldwork,fieldwork
-рыба,Блечепсин,,,бдзэжъе,fieldwork,fieldwork
-рыба,Хумара,,,бдзэжъэй,fieldwork,fieldwork
-рыба,Инджиджишхо,,,бдзэжъе,fieldwork,fieldwork
-рыба,Эрсакон,,,бдзэжъэй,fieldwork,fieldwork
-рыба,Жако,,,бдзэжъе,fieldwork,fieldwork
-свинья,Хаджико,,,къо,fieldwork,fieldwork
-свинья,Большой Кичмай,,,къо,fieldwork,fieldwork
-свинья,Агуй-Шапсуг,,,хъо,fieldwork,fieldwork
-свинья,Псейтук,,,къhо,fieldwork,fieldwork
-свинья,Нешукай,,,къhо,fieldwork,fieldwork
-свинья,М. Псеушхо,,,къо,fieldwork,fieldwork
-свинья,Уляп,,,qʷe,fieldwork,fieldwork
-свинья,Кургоковское,,,кхъо,fieldwork,fieldwork
-свинья,Ходзь,,,кхъуэ,fieldwork,fieldwork
-свинья,Блечепсин,,,кхъо,fieldwork,fieldwork
-свинья,Хумара,,,кхъо,fieldwork,fieldwork
-свинья,Инджиджишхо,,,кхъуэ,fieldwork,fieldwork
-свинья,Эрсакон,,,кхъуэ [qχ],fieldwork,fieldwork
-свинья,Жако,,,кхъуэ [qχ],fieldwork,fieldwork
-селезёнка,Большой Кичмай,,,"жъэжъый, си",fieldwork,fieldwork
-селезёнка,Псейтук,,,чhэ,fieldwork,fieldwork
-селезёнка,Нешукай,,,чhэ,fieldwork,fieldwork
-селезёнка,Уляп,,,čʼe,fieldwork,fieldwork
-селезёнка,Вакожиле,,,зэз,fieldwork,fieldwork
-селезёнка,Эрсакон,,,чэ,fieldwork,fieldwork
-селение,Хаджико,,,чылэ,fieldwork,fieldwork
-селение,Большой Кичмай,,,чылэ,fieldwork,fieldwork
-селение,Агуй-Шапсуг,,,чылэ,fieldwork,fieldwork
-селение,Псейтук,,,чылэ,fieldwork,fieldwork
-селение,Нешукай,,,чылэ,fieldwork,fieldwork
-селение,М. Псеушхо,,,чэлагъу,fieldwork,fieldwork
-селение,Уляп,,,žəle,fieldwork,fieldwork
-селение,Вакожиле,,,жылэ,fieldwork,fieldwork
-селение,Кургоковское,,,джылэ,fieldwork,fieldwork
-селение,Ходзь,,,жьылэ,fieldwork,fieldwork
-селение,Блечепсин,,,жьылэ,fieldwork,fieldwork
-селение,Хумара,,,жьылэ,fieldwork,fieldwork
-селение,Инджиджишхо,,,жылэ,fieldwork,fieldwork
-селение,Эрсакон,,,жьылэ,fieldwork,fieldwork
-селение,Жако,,,жылэ,fieldwork,fieldwork
-селение 2,Нешукай,,,къуадж,fieldwork,fieldwork
-селение 2,Кургоковское,,,къуаджэ,fieldwork,fieldwork
-селение 2,Ходзь,,,къуажьэ,fieldwork,fieldwork
-селение 2,Блечепсин,,,къуажъэ,fieldwork,fieldwork
-селение 2,Хумара,,,къуажьэ,fieldwork,fieldwork
-селение 2,Инджиджишхо,,,къуажэ,fieldwork,fieldwork
-селение 2,Эрсакон,,,къуажьэ,fieldwork,fieldwork
-селение 2,Жако,,,къуажэ,fieldwork,fieldwork
+кувшин,Хаджико,qʷ,къу,qʷɐɕən,fieldwork,fieldwork
+кувшин,Большой Кичмай,qʷ,къу,qʷɐɕən,fieldwork,fieldwork
+кувшин,Псейтук,qʰʷ,кхъу,qʰʷɐɕʰən,fieldwork,fieldwork
+кувшин,Нешукай,qʰʷ,кхъу,qʰʷɐʃən,fieldwork,fieldwork
+кувшин,М. Псеушхо,qʷ,къу,qʷɐʃən,fieldwork,fieldwork
+кувшин,Уляп,qʰʷ,кxъу,qʰʷɐʃən,fieldwork,fieldwork
+кувшин,Вакожиле,qʰʷ,кxъу,qʰʷɐʃən,fieldwork,fieldwork
+кувшин,Ходзь,qχʷ,кxъу,qχʷɐʃən,fieldwork,fieldwork
+кувшин,Блечепсин,qχʷ,кxъу,qχʷɐʃən,fieldwork,fieldwork
+кувшин,Хумара,qχʷ,кxъу,qχʷɐŝən,fieldwork,fieldwork
+кувшин,Инджиджишхо,qχʷ,кxъу,qχʷɐŝən,fieldwork,fieldwork
+кувшин,Эрсакон,qχʷ,кxъу,qχʷɐŝən,fieldwork,fieldwork
+кувшин,Жако,qχʷ,кxъу,qχʷɐŝən,fieldwork,fieldwork
+курица,Хаджико,kʲ,кь,kʲɐtə,fieldwork,fieldwork
+курица,Большой Кичмай,kʲ,кь,kʲɐtə,fieldwork,fieldwork
+курица,Агуй-Шапсуг,kʲː,кь,kʲːɐtːə,fieldwork,fieldwork
+курица,Псейтук,kʲ,кь,kʲɐtə,fieldwork,fieldwork
+курица,Нешукай,t͡ɕ,ч,t͡ɕɐtə,fieldwork,fieldwork
+курица,М. Псеушхо,t͡ɕ,ч,t͡ɕɐtə,fieldwork,fieldwork
+курица,Уляп,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Вакожиле,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Кургоковское,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Ходзь,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Блечепсин,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Хумара,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Инджиджишхо,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Эрсакон,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица,Жако,d͡ʑ,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Хаджико,t,кь,kʲɐtə,fieldwork,fieldwork
+курица 2,Большой Кичмай,t,кь,kʲɐtə,fieldwork,fieldwork
+курица 2,Агуй-Шапсуг,tː,кь,kʲːɐtːə,fieldwork,fieldwork
+курица 2,Псейтук,t,кь,kʲɐtə,fieldwork,fieldwork
+курица 2,Нешукай,t,ч,t͡ɕɐtə,fieldwork,fieldwork
+курица 2,М. Псеушхо,t,ч,t͡ɕɐtə,fieldwork,fieldwork
+курица 2,Уляп,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Вакожиле,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Кургоковское,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Ходзь,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Блечепсин,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Хумара,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Инджиджишхо,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Эрсакон,d,дж,d͡ʑɐd,fieldwork,fieldwork
+курица 2,Жако,d,дж,d͡ʑɐd,fieldwork,fieldwork
+куст,Хаджико,d,д,kʷadɐ,fieldwork,fieldwork
+куст,Большой Кичмай,d,д,qʷadɐ,fieldwork,fieldwork
+куст,Агуй-Шапсуг,rd,рд,kʷardɐ,fieldwork,fieldwork
+куст,Псейтук,nd,нд,kʷandɐ,fieldwork,fieldwork
+куст,Нешукай,nd,нд,kʷandɐ,fieldwork,fieldwork
+куст,М. Псеушхо,d,д,kʷadɐ,fieldwork,fieldwork
+куст,Уляп,nd,нд,kʷandɐ,fieldwork,fieldwork
+ласточка,Хаджико,ɕχʷ,щхъу,pt͡s’aɕχʷɐ,fieldwork,fieldwork
+ласточка,Большой Кичмай,ɕχʷ,щхъу,pt͡s’aɕχʷɐ,fieldwork,fieldwork
+ласточка,Агуй-Шапсуг,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Псейтук,ŝχʷ,шъхъу,ps’aŝχʷə,fieldwork,fieldwork
+ласточка,Нешукай,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,М. Псеушхо,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Уляп,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Вакожиле,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Ходзь,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Блечепсин,ʃχʷ,шхъу,pt͡s’aʃχʷ,fieldwork,fieldwork
+ласточка,Хумара,ŝχʷ,шъхъу,ps’aŝχʷə,fieldwork,fieldwork
+ласточка,Инджиджишхо,ŝχʷ,шъхъу,ps’aŝχʷə,fieldwork,fieldwork
+ласточка,Эрсакон,ŝχʷ,шъхъу,ps’aŝχʷə,fieldwork,fieldwork
+ласточка,Жако,ŝχʷ,шъхъу,ps’aŝχʷə,fieldwork,fieldwork
+лиса,Хаджико,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Большой Кичмай,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Агуй-Шапсуг,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Псейтук,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Нешукай,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,М. Псеушхо,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Уляп,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Вакожиле,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Кургоковское,d͡ʑ,дж,bad͡ʑɐ,fieldwork,fieldwork
+лиса,Ходзь,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Блечепсин,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Хумара,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Инджиджишхо,ʒ,ж,baʒɐ,fieldwork,fieldwork
+лиса,Эрсакон,ʑ,жь,baʑɐ,fieldwork,fieldwork
+лиса,Жако,ʒ,ж,baʒɐ,fieldwork,fieldwork
+ложь,Хаджико,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Большой Кичмай,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Агуй-Шапсуг,s’,сI,ps’ə,fieldwork,fieldwork
+ложь,Псейтук,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Нешукай,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,М. Псеушхо,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Ходзь,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Блечепсин,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Хумара,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Инджиджишхо,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Эрсакон,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+ложь,Жако,t͡s’,цI,pt͡s’ə,fieldwork,fieldwork
+"лошадь, конь",Хаджико,t͡ɕ,ч,t͡ɕə,fieldwork,fieldwork
+"лошадь, конь",Большой Кичмай,t͡ɕ,ч,t͡ɕə,fieldwork,fieldwork
+"лошадь, конь",Псебе,xʲ,х’,xʲə,fieldwork,fieldwork
+"лошадь, конь",Агуй-Шапсуг,xʲ,х’,xʲə,fieldwork,fieldwork
+"лошадь, конь",Псейтук,ɕʰ,щh,ɕʰə,fieldwork,fieldwork
+"лошадь, конь",М. Псеушхо,ʃ,ш,ʃə,fieldwork,fieldwork
+"лошадь, конь",Уляп,ʃ,ш,ʃə,fieldwork,fieldwork
+"лошадь, конь",Вакожиле,ʃ,ш,ʃə,fieldwork,fieldwork
+"лошадь, конь",Кургоковское,t͡ʃ,чъ,t͡ʃə,fieldwork,fieldwork
+"лошадь, конь",Ходзь,ɕ,щ,ɕə,fieldwork,fieldwork
+"лошадь, конь",Блечепсин,ɕ,щ,ɕə,fieldwork,fieldwork
+"лошадь, конь",Хумара,ɕ,щ,ɕə,fieldwork,fieldwork
+"лошадь, конь",Инджиджишхо,ʃ,ш,ʃə,fieldwork,fieldwork
+"лошадь, конь",Эрсакон,ɕ,щ,ɕə,fieldwork,fieldwork
+"лошадь, конь",Жако,ʃ,ш,ʃə,fieldwork,fieldwork
+лук,Хаджико,ʑ,жь,bʑənɐ,fieldwork,fieldwork
+лук,Большой Кичмай,ʑ,жь,bʑənɐ,fieldwork,fieldwork
+лук,Агуй-Шапсуг,ʑ,жь,bʑənə,fieldwork,fieldwork
+лук,Псейтук,ʑ,жь,bʑənə,fieldwork,fieldwork
+лук,Нешукай,ʑ,жь,bʑən,fieldwork,fieldwork
+лук,М. Псеушхо,ʒ,ж,bʒənə,fieldwork,fieldwork
+лук,Уляп,ʑ,жь,bʑən,fieldwork,fieldwork
+лук,Вакожиле,ʑ,жь,bʑən,fieldwork,fieldwork
+лук,Кургоковское,ʑ,жь,bʑən,fieldwork,fieldwork
+лук,Ходзь,ẑ,жъ,bẑən,fieldwork,fieldwork
+лук,Блечепсин,ʑ,жь,bʑən,fieldwork,fieldwork
+лук,Хумара,ẑ,жъ,bẑən,fieldwork,fieldwork
+лук,Инджиджишхо,ẑ,жъ,bẑən,fieldwork,fieldwork
+лук,Эрсакон,ẑ,жъ,bẑən,fieldwork,fieldwork
+лук,Жако,ẑ,жъ,bẑən,fieldwork,fieldwork
+маленький,Хаджико,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Большой Кичмай,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Псебе,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Агуй-Шапсуг,k’ʷ,кIу,t͡sək’ʷənjaw,fieldwork,fieldwork
+маленький,Псейтук,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Нешукай,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,М. Псеушхо,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Уляп,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Вакожиле,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Бесленей,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Ходзь,k’,кI,t͡sək’,fieldwork,fieldwork
+маленький,Блечепсин,k’,кI,t͡sək’,fieldwork,fieldwork
+маленький,Хумара,k’,кI,t͡sək’,fieldwork,fieldwork
+маленький,Инджиджишхо,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Эрсакон,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+маленький,Жако,k’ʷ,кIу,t͡sək’ʷ,fieldwork,fieldwork
+мокрый,Хаджико,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Большой Кичмай,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Агуй-Шапсуг,s’,сI,s’ənɐ,fieldwork,fieldwork
+мокрый,Псейтук,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Нешукай,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,М. Псеушхо,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Уляп,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Вакожиле,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Ходзь,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Блечепсин,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Хумара,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Инджиджишхо,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Эрсакон,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+мокрый,Жако,t͡s’,цI,t͡s’ənɐ,fieldwork,fieldwork
+молоко,Хаджико,t͡ɕ,ч,t͡ɕɐ,fieldwork,fieldwork
+молоко,Большой Кичмай,t͡ɕ,ч,t͡ɕɐ,fieldwork,fieldwork
+молоко,Агуй-Шапсуг,xʲ,х’,xʲɐ,fieldwork,fieldwork
+молоко,Псейтук,ɕʰ,щh,ɕʰɐ,fieldwork,fieldwork
+молоко,Нешукай,ɕʰ,щh,ɕʰɐ,fieldwork,fieldwork
+молоко,М. Псеушхо,ʃ,ш,ʃɐ,fieldwork,fieldwork
+молоко,Уляп,ɕ,щ,ɕɐ,fieldwork,fieldwork
+молоко,Вакожиле,ɕ,щ,ɕɐ,fieldwork,fieldwork
+молоко,Кургоковское,t͡ɕ,ч,t͡ɕɐ,fieldwork,fieldwork
+молоко,Ходзь,ɕ,щ,ɕɐ,fieldwork,fieldwork
+молоко,Блечепсин,ɕ,щ,ɕɐ,fieldwork,fieldwork
+молоко,Хумара,ɕ,щ,ɕɐ,fieldwork,fieldwork
+молоко,Инджиджишхо,ʃ,ш,ʃɐ,fieldwork,fieldwork
+молоко,Эрсакон,ʃ,ш,ʃɐ,fieldwork,fieldwork
+молоко,Жако,ʃ,ш,ʃɐ,fieldwork,fieldwork
+мост,Хаджико,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Большой Кичмай,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Агуй-Шапсуг,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Псейтук,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Нешукай,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,М. Псеушхо,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Уляп,ʑ,жь,ɬɐməʑ,fieldwork,fieldwork
+мост,Вакожиле,ʑ,жь,ɬɐməʑ,fieldwork,fieldwork
+мост,Кургоковское,d͡ʑ,дж,ɬɐməd͡ʑ,fieldwork,fieldwork
+мост,Ходзь,ʑ,жь,ɬɐməʑ,fieldwork,fieldwork
+мост,Блечепсин,ẑ,жъ,ɬɐməẑ,fieldwork,fieldwork
+мост,Хумара,ʑ,жь,ɬɐməʑ,fieldwork,fieldwork
+мост,Инджиджишхо,ʒ,ж,ɬɐməʒ,fieldwork,fieldwork
+мост,Эрсакон,ʑ,жь,ɬɐməʑ,fieldwork,fieldwork
+мост,Жако,ʒ,ж,ɬɐməʒ,fieldwork,fieldwork
+мышь,Хаджико,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,Большой Кичмай,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,Агуй-Шапсуг,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,Псейтук,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,Нешукай,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,М. Псеушхо,t͡s,ц,t͡səʁʷɐ,fieldwork,fieldwork
+мышь,Уляп,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Вакожиле,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Кургоковское,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Ходзь,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Блечепсин,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Хумара,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Инджиджишхо,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Эрсакон,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+мышь,Жако,d͡z,дз,d͡zəʁʷɐ,fieldwork,fieldwork
+нос,Хаджико,p,п,pɐ,fieldwork,fieldwork
+нос,Большой Кичмай,p,п,pɐ,fieldwork,fieldwork
+нос,Псебе,p,п,pɐ,fieldwork,fieldwork
+нос,Агуй-Шапсуг,p,п,pɐ,fieldwork,fieldwork
+нос,Псейтук,pʰ,пh,pʰɐ,fieldwork,fieldwork
+нос,Нешукай,pʰ,пh,pʰɐ,fieldwork,fieldwork
+нос,Б. Псеушхо,p,п,pɐ,fieldwork,fieldwork
+нос,Егерухай,p,п,pɐ,fieldwork,fieldwork
+нос,М. Псеушхо,p,п,pɐ,fieldwork,fieldwork
+нос,Уляп,p,п,pɐ,fieldwork,fieldwork
+нос,Вакожиле,p,п,pɐ,fieldwork,fieldwork
+нос,Бесленей,p,п,pɐ,fieldwork,fieldwork
+нос,Кургоковское,p,п,pɐ,fieldwork,fieldwork
+нос,Ходзь,p,п,pɐ,fieldwork,fieldwork
+нос,Блечепсин,p,п,pɐ,fieldwork,fieldwork
+нос,Хумара,p,п,pɐ,fieldwork,fieldwork
+нос,Инджиджишхо,p,п,pɐ,fieldwork,fieldwork
+нос,Эрсакон,p,п,pɐ,fieldwork,fieldwork
+нос,Жако,p,п,pɐ,fieldwork,fieldwork
+ночь,Хаджико,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,Большой Кичмай,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,Псебе,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,Агуй-Шапсуг,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,Псейтук,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,Нешукай,t͡ɕ,ч,t͡ɕɐɕə,fieldwork,fieldwork
+ночь,М. Псеушхо,t͡ɕ,ч,t͡ɕɐʃə,fieldwork,fieldwork
+ночь,Уляп,d͡ʑ,дж,d͡ʑɐɕ,fieldwork,fieldwork
+ночь,Вакожиле,ʒ,ж,жэщ,fieldwork,fieldwork
+ночь,Бесленей,ʒ,ж,жэщ,fieldwork,fieldwork
+ночь,Кургоковское,d͡ʑ,дж,d͡ʑɐɕ,fieldwork,fieldwork
+ночь,Ходзь,ʑ,жь,ʑɐɕ,fieldwork,fieldwork
+ночь,Блечепсин,ʑ,жь,ʑɐɕ,fieldwork,fieldwork
+ночь,Хумара,ʑ,жь,ʑɐŝ,fieldwork,fieldwork
+ночь,Инджиджишхо,ʒ,ж,ʒɐŝ,fieldwork,fieldwork
+ночь,Эрсакон,ʑ,жь,ʑɐŝ,fieldwork,fieldwork
+ночь,Жако,ʒ,ж,ʒɐŝ,fieldwork,fieldwork
+отец,Хаджико,t,т,tə,fieldwork,fieldwork
+отец,Большой Кичмай,t,т,tə,fieldwork,fieldwork
+отец,Агуй-Шапсуг,tː,т:,tːə,fieldwork,fieldwork
+отец,Псейтук,t,т,tə,fieldwork,fieldwork
+отец,Нешукай,t,т,tə,fieldwork,fieldwork
+отец,Егерухай,t,т,tə,fieldwork,fieldwork
+отец,М. Псеушхо,t,т,tə,fieldwork,fieldwork
+отец,Уляп,d,д,adɐ,fieldwork,fieldwork
+отец,Вакожиле,d,д,adɐ,fieldwork,fieldwork
+отец,Кургоковское,d,д,adɐ,fieldwork,fieldwork
+отец,Ходзь,d,д,adɐ,fieldwork,fieldwork
+отец,Блечепсин,d,д,adɐ,fieldwork,fieldwork
+отец,Хумара,d,д,adɐ,fieldwork,fieldwork
+отец,Инджиджишхо,d,д,adɐ,fieldwork,fieldwork
+отец,Эрсакон,d,д,adɐ,fieldwork,fieldwork
+отец,Жако,d,д,adɐ,fieldwork,fieldwork
+палец руки,Хаджико,pχ,пхъ,ʔɐpχab,fieldwork,fieldwork
+палец руки,Большой Кичмай,pχ,пхъ,ʔɐpχab,fieldwork,fieldwork
+палец руки,Агуй-Шапсуг,pχ,пхъ,ʔɐpχab,fieldwork,fieldwork
+палец руки,Псейтук,χʷ,хъу,ʔɐχʷab,fieldwork,fieldwork
+палец руки,Нешукай,χʷ,хъу,ʔɐχʷamb,fieldwork,fieldwork
+палец руки,Б. Псеушхо,pχ,пхъ,ʔɐpχab,fieldwork,fieldwork
+палец руки,Егерухай,χʷ,хъу,ʔɐχʷamb,fieldwork,fieldwork
+палец руки,М. Псеушхо,pχ,пхъ,ʔɐpχabɐ,fieldwork,fieldwork
+палец руки,Вакожиле,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палец руки,Ходзь,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палец руки,Хумара,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палец руки,Инджиджишхо,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палец руки,Эрсакон,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палец руки,Жако,χʷ,хъу,ʔɐχʷambɐ,fieldwork,fieldwork
+палка,Хаджико,t͡ɕ,ч,bɐt͡ɕə,fieldwork,fieldwork
+палка,Большой Кичмай,t͡ɕ,ч,bɐt͡ɕ,fieldwork,fieldwork
+палка,Агуй-Шапсуг,xʲ,х’,bɐxʲə,fieldwork,fieldwork
+палка,Псейтук,ɕʰ,щh,bɐɕʰə,fieldwork,fieldwork
+палка,Нешукай,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,М. Псеушхо,ʃ,ш,bɐʃə,fieldwork,fieldwork
+палка,Уляп,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,Вакожиле,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,Кургоковское,t͡ɕ,ч,bat͡ɕ,fieldwork,fieldwork
+палка,Ходзь,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,Блечепсин,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,Хумара,ɕ,щ,baɕ,fieldwork,fieldwork
+палка,Инджиджишхо,ʃ,ш,baʃ,fieldwork,fieldwork
+палка,Эрсакон,ʃ,ш,baʃ,fieldwork,fieldwork
+палка,Жако,ʃ,ш,baʃ,fieldwork,fieldwork
+парень,Хаджико,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Большой Кичмай,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Псебе,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Агуй-Шапсуг,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Псейтук,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Нешукай,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Егерухай,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,М. Псеушхо,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Кургоковское,t͡ɕ’,кI,t͡ɕ’aɮɐ,fieldwork,fieldwork
+парень,Ходзь,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+парень,Блечепсин,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+парень,Хумара,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+парень,Инджиджишхо,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+парень,Эрсакон,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+парень,Жако,ŝ’,шI,ŝ’aɮɐ,fieldwork,fieldwork
+пахотное поле,Хаджико,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Большой Кичмай,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Агуй-Шапсуг,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Псейтук,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Нешукай,bʁʷ,бгъу,ɡʷəbʁʷɐ,fieldwork,fieldwork
+пахотное поле,Уляп,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Вакожиле,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Кургоковское,bʁʷ,бгъу,ɡʷəbʁʷɐ,fieldwork,fieldwork
+пахотное поле,Ходзь,bʁʷ,бгъу,ɡʷəbʁʷɐ,fieldwork,fieldwork
+пахотное поле,Блечепсин,bʁ,бгъ,ɡʷəbʁɐ,fieldwork,fieldwork
+пахотное поле,Эрсакон,bʁʷ,бгъу,ɡʷəbʁʷɐ,fieldwork,fieldwork
+пахотное поле,Жако,bʁʷ,бгъу,ɡʷəbʁʷɐ,fieldwork,fieldwork
+пшеница,Хаджико,kʷ,ку,kʷɐt͡sə,fieldwork,fieldwork
+пшеница,Большой Кичмай,kʷ,ку,kʷɐt͡sə,fieldwork,fieldwork
+пшеница,Агуй-Шапсуг,kʷː,ку:,kʷːɐt͡sːə,fieldwork,fieldwork
+пшеница,Псейтук,kʰʷ,ку,kʰʷɐt͡sə,fieldwork,fieldwork
+пшеница,Нешукай,kʷ,ку,kʷɐt͡s,fieldwork,fieldwork
+пшеница,М. Псеушхо,kʷ,ку,kʷɐt͡sə,fieldwork,fieldwork
+пшеница,Уляп,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+пшеница,Вакожиле,ɡʷ,гу,ɡʷɐd͡zʲ,fieldwork,fieldwork
+пшеница,Кургоковское,ɡʷ,гу,ɡʷɐd͡zʲ,fieldwork,fieldwork
+пшеница,Ходзь,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+пшеница,Блечепсин,ɡʷ,гу,ɡʷɐd͡zʲ,fieldwork,fieldwork
+пшеница,Хумара,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+пшеница,Инджиджишхо,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+пшеница,Эрсакон,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+пшеница,Жако,ɡʷ,гу,ɡʷɐd͡z,fieldwork,fieldwork
+рот,Хаджико,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Большой Кичмай,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Псебе,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Агуй-Шапсуг,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Псейтук,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Нешукай,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Егерухай,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,М. Псеушхо,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Уляп,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Вакожиле,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Бесленей,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Кургоковское,ʒ,ж,ʒɐ,fieldwork,fieldwork
+рот,Ходзь,ẑ,жъ,ẑɐ,fieldwork,fieldwork
+рот,Блечепсин,ẑ,жъ,ẑɐ,fieldwork,fieldwork
+рот,Хумара,ẑ,жъ,ẑɐ,fieldwork,fieldwork
+рот,Инджиджишхо,ẑ,жъ,ẑɐ,fieldwork,fieldwork
+рот,Эрсакон,ʑ,жь,ʑɐ,fieldwork,fieldwork
+рот,Жако,ẑ,жъ,ẑɐ,fieldwork,fieldwork
+рубашка,Хаджико,ɡʲ,гь,ɡʲanɐ,fieldwork,fieldwork
+рубашка,Большой Кичмай,ɡʲ,гь,ɡʲanɐ,fieldwork,fieldwork
+рубашка,Агуй-Шапсуг,ɡʲ,гь,ɡʲan,fieldwork,fieldwork
+рубашка,Псейтук,ɡʲ,гь,ɡʲanɐ,fieldwork,fieldwork
+рубашка,Нешукай,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,М. Псеушхо,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Уляп,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Вакожиле,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Кургоковское,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Ходзь,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Блечепсин,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Хумара,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Инджиджишхо,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Эрсакон,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рубашка,Жако,d͡ʑ,дж,d͡ʑanɐ,fieldwork,fieldwork
+рыба,Хаджико,p,п,pt͡sɐẑəj,fieldwork,fieldwork
+рыба,Большой Кичмай,p,п,pt͡sɐẑəj,fieldwork,fieldwork
+рыба,Псебе,p,п,psɐẑəj,fieldwork,fieldwork
+рыба,Агуй-Шапсуг,p,п,pːt͡sɐẑəj,fieldwork,fieldwork
+рыба,Б. Псеушхо,p,п,pt͡sɐẑəj,fieldwork,fieldwork
+рыба,М. Псеушхо,p,п,pt͡sɐẑəj,fieldwork,fieldwork
+рыба,Уляп,b,б,bẑeẑje,fieldwork,fieldwork
+рыба,Вакожиле,b,б,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба,Бесленей,b,б,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба,Кургоковское,b,б,bd͡ʑɐẑjɐ,fieldwork,fieldwork
+рыба,Ходзь,b,б,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба,Блечепсин,b,б,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба,Хумара,b,б,bd͡zɐẑɐj,fieldwork,fieldwork
+рыба,Инджиджишхо,b,б,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба,Эрсакон,b,б,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба,Жако,b,б,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба 2,Хаджико,t͡s,ц,pt͡sɐẑəj,fieldwork,fieldwork
+рыба 2,Большой Кичмай,t͡s,ц,pt͡sɐẑəj,fieldwork,fieldwork
+рыба 2,Псебе,s,с,psɐẑəj,fieldwork,fieldwork
+рыба 2,Агуй-Шапсуг,t͡s,ц,pːt͡sɐẑəj,fieldwork,fieldwork
+рыба 2,Б. Псеушхо,t͡s,ц,pt͡sɐẑəj,fieldwork,fieldwork
+рыба 2,М. Псеушхо,t͡s,ц,pt͡sɐẑəj,fieldwork,fieldwork
+рыба 2,Уляп,ẑ,жъ,bẑeẑje,fieldwork,fieldwork
+рыба 2,Вакожиле,d͡z,дз,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба 2,Бесленей,d͡z,дз,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба 2,Кургоковское,dʑ,дж,bd͡ʑɐẑjɐ,fieldwork,fieldwork
+рыба 2,Ходзь,d͡z,дз,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба 2,Блечепсин,d͡z,дз,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба 2,Хумара,d͡z,дз,bd͡zɐẑɐj,fieldwork,fieldwork
+рыба 2,Инджиджишхо,d͡z,дз,bd͡zɐẑjɐ,fieldwork,fieldwork
+рыба 2,Эрсакон,d͡z,дз,bd͡zɐẑjɐj,fieldwork,fieldwork
+рыба 2,Жако,d͡z,дз,bd͡zɐẑjɐj,fieldwork,fieldwork
+свекровь,Хаджико,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Большой Кичмай,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Агуй-Шапсуг,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Псейтук,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Нешукай,ɕ,щ,ɡʷaɕə,fieldwork,fieldwork
+свекровь,Егерухай,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,М. Псеушхо,ʃ,ш,ɡʷaʃɐ,fieldwork,fieldwork
+свекровь,Уляп,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Вакожиле,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Кургоковское,ɕ,щ,ɡʷaɕɐ,fieldwork,fieldwork
+свекровь,Ходзь,ŝ,щ,ɡʷaŝɐ,fieldwork,fieldwork
+свекровь,Блечепсин,ŝ,щ,ʁʷaŝɐ,fieldwork,fieldwork
+свекровь,Хумара,ŝ,щ,ɡʷaŝɐ,fieldwork,fieldwork
+свекровь,Инджиджишхо,ŝ,щ,ɡʷaŝɐ,fieldwork,fieldwork
+свекровь,Эрсакон,ŝ,щ,ɡʷaŝɐ,fieldwork,fieldwork
+свекровь,Жако,ŝ,щ,ɡʷaŝɐ,fieldwork,fieldwork
+свинья,Хаджико,qʷ,къу,qʷɐ,fieldwork,fieldwork
+свинья,Большой Кичмай,qʷ,къу,qʷɐ,fieldwork,fieldwork
+свинья,Агуй-Шапсуг,χʷ,хъу,χʷɐ,fieldwork,fieldwork
+свинья,Псейтук,qʰʷ,кхъу,qʰʷɐ,fieldwork,fieldwork
+свинья,Нешукай,qʰʷ,кхъу,qʰʷɐ,fieldwork,fieldwork
+свинья,М. Псеушхо,qʷ,къу,qʷɐ,fieldwork,fieldwork
+свинья,Уляп,qʰʷ,кхъу,qʰʷɐ,fieldwork,fieldwork
+свинья,Кургоковское,qʰʷ,кхъу,qʰʷɐ,fieldwork,fieldwork
+свинья,Ходзь,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+свинья,Блечепсин,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+свинья,Хумара,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+свинья,Инджиджишхо,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+свинья,Эрсакон,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+свинья,Жако,q͡χʷ,кхъу,q͡χʷɐ,fieldwork,fieldwork
+селезёнка,Псейтук,t͡ɕʰ,чh,t͡ɕʰɐ,fieldwork,fieldwork
+селезёнка,Нешукай,t͡ɕʰ,чh,t͡ɕʰɐ,fieldwork,fieldwork
+селезёнка,Уляп,t͡ɕ,ч,t͡ɕɐ,fieldwork,fieldwork
+селезёнка,Эрсакон,t͡ɕ,ч,t͡ɕɐ,fieldwork,fieldwork
+селение,Хаджико,t͡ɕ,ч,t͡ɕəɮɐ,fieldwork,fieldwork
+селение,Большой Кичмай,t͡ɕ,ч,t͡ɕəɮɐ,fieldwork,fieldwork
+селение,Агуй-Шапсуг,t͡ɕ,ч,t͡ɕəɮɐ,fieldwork,fieldwork
+селение,Псейтук,t͡ɕ,ч,t͡ɕəɮɐ,fieldwork,fieldwork
+селение,Нешукай,t͡ɕ,ч,t͡ɕəɮɐ,fieldwork,fieldwork
+селение,М. Псеушхо,t͡ɕ,ч,t͡ɕɐɮaʁʷ,fieldwork,fieldwork
+селение,Уляп,ʒ,ж,ʒəɮɐ,fieldwork,fieldwork
+селение,Вакожиле,ʑ,жь,ʑəɮɐ,fieldwork,fieldwork
+селение,Кургоковское,d͡ʑ,дж,d͡ʑəɮɐ,fieldwork,fieldwork
+селение,Ходзь,ʑ,жь,ʑəɮɐ,fieldwork,fieldwork
+селение,Блечепсин,ʑ,жь,ʑəɮɐ,fieldwork,fieldwork
+селение,Хумара,ʑ,жь,ʑəɮɐ,fieldwork,fieldwork
+селение,Инджиджишхо,ʒ,ж,ʒəɮɐ,fieldwork,fieldwork
+селение,Эрсакон,ʑ,жь,ʑəɮɐ,fieldwork,fieldwork
+селение,Жако,ʒ,ж,ʒəɮɐ,fieldwork,fieldwork
+селение 2,Нешукай,d͡ʑ,дж,q’ʷad͡ʑ,fieldwork,fieldwork
+селение 2,Кургоковское,d͡ʑ,дж,q’ʷad͡ʑɐ,fieldwork,fieldwork
+селение 2,Ходзь,ʑ,жь,q’ʷaʑɐ,fieldwork,fieldwork
+селение 2,Блечепсин,ʑ,жь,q’ʷaʑɐ,fieldwork,fieldwork
+селение 2,Хумара,ʑ,жь,q’ʷaʑɐ,fieldwork,fieldwork
+селение 2,Инджиджишхо,ʒ,ж,q’ʷaʒɐ,fieldwork,fieldwork
+селение 2,Эрсакон,ʑ,жь,q’ʷaʑɐ,fieldwork,fieldwork
+селение 2,Жако,ʒ,ж,q’ʷaʒɐ,fieldwork,fieldwork
 синий,Хаджико,,,шъухъуатIэ,fieldwork,fieldwork
 синий,Большой Кичмай,,,шъухъуатIэ [sχʷat'e],fieldwork,fieldwork
 синий,Агуй-Шапсуг,,,шхъуатIэ,fieldwork,fieldwork
@@ -1044,19 +1063,19 @@ translation_source,lect,sound,sound_source,example,reference,full_reference
 шерсть,Эрсакон,,,цы,fieldwork,fieldwork
 шерсть,Жако,,,цы,fieldwork,fieldwork
 яйцо,Хаджико,,,кIьякIье,fieldwork,fieldwork
-яйцо,Большой Кичмай,,,кIьякIье,fieldwork,fieldwork
-яйцо,Псебе,,,кIакIэ,fieldwork,fieldwork
-яйцо,Агуй-Шапсуг,,,кIьякIье,fieldwork,fieldwork
-яйцо,Псейтук,,,кIякIе,fieldwork,fieldwork
-яйцо,Нешукай,,,кIэ(н)кIэ,fieldwork,fieldwork
-яйцо,М. Псеушхо,,,кIанкIэ,fieldwork,fieldwork
-яйцо,Уляп,,,ǯʼedəč̣ʼe,fieldwork,fieldwork
-яйцо,Вакожиле,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Бесленей,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Кургоковское,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Ходзь,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Блечепсин,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Хумара,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Инджиджишхо,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Эрсакон,,,джэдыкIэ,fieldwork,fieldwork
-яйцо,Жако,,,джэдыкIэ,fieldwork,fieldwork
+яйцо,Большой Кичмай,,,кIьякIье,,
+яйцо,Псебе,,,кIакIэ,,
+яйцо,Агуй-Шапсуг,,,кIьякIье,,
+яйцо,Псейтук,,,кIякIе,,
+яйцо,Нешукай,,,кIэ(н)кIэ,,
+яйцо,М. Псеушхо,,,кIанкIэ,,
+яйцо,Уляп,,,ǯʼedəč̣ʼe,,
+яйцо,Вакожиле,,,джэдыкIэ,,
+яйцо,Бесленей,,,джэдыкIэ,,
+яйцо,Кургоковское,,,джэдыкIэ,,
+яйцо,Ходзь,,,джэдыкIэ,,
+яйцо,Блечепсин,,,джэдыкIэ,,
+яйцо,Хумара,,,джэдыкIэ,,
+яйцо,Инджиджишхо,,,джэдыкIэ,,
+яйцо,Эрсакон,,,джэдыкIэ,,
+яйцо,Жако,,,джэдыкIэ,,
