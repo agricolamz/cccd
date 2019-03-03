@@ -29,14 +29,14 @@ Download database: [.csv](https://raw.githubusercontent.com/agricolamz/cccd/mast
 #### long format
 ```{r}
 db %>% 
-  select(-full_reference, -id) %>% 
+  select(-full_reference) %>% 
   DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
 ```
 
 #### short format
 ```{r}
 db %>% 
-  select(-full_reference, -id, -sound_source, -reference, -example) %>% 
+  select(-full_reference, -sound_source, -reference, -example) %>% 
   group_by(translation, translation_source) %>% 
   mutate(n = n()) %>% 
   select(n, translation, translation_source, lect, sound) %>% 
