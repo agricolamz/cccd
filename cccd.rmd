@@ -45,7 +45,7 @@ db %>%
   DT::datatable(filter = 'top', rownames = FALSE, options = list(pageLength = 20, dom = 'tip'), escape = FALSE)
 ```
 
-#### bibliography
+#### bibliography 
 ```{r}
 db %>% 
   mutate(reference = str_extract(reference, ".*\\d\\d\\d\\d")) %>% 
